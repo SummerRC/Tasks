@@ -1,5 +1,6 @@
 # Tasks of every week
----
+[![Gitter](https://badges.gitter.im/SummerRC/Tasks.svg)](https://gitter.im/SummerRC/Tasks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 - 第一周（15.12.31-－16.1.3）
 	- ~~GitBook 官方文档翻译（完成80%）~~
 	- ~~Mac 下 PHP 环境搭建~~
@@ -78,6 +79,8 @@
 
 - 第六周(16.2.1--16.2.7)
 	- ~~web.py~~
+	- ~~看电影 《了不起的盖茨比》 《生命之树》~~
+
 
 </br>
 	
@@ -85,6 +88,7 @@
 	- ~~在家~~
 	- ~~Python 操作 MySQL 数据库~~
 	- ~~模式的秘密---单例模式~~
+	- ~~看电影《怦然心动》 《心灵捕手》~~
 	
 </br>
 	
@@ -96,3 +100,4 @@
 	- bug 总结的博文和 Mac 环境配置记录的博文
 	- python 网络编程
 	- 购买手机钢化膜/套、运动服、滑雪装、Linux书籍	
+	- 看电影 《鸟人》 《为奴十二载》
